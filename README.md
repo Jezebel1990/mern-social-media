@@ -24,7 +24,7 @@ git clone https://github.com/Jezebel1990/mern-social-media.git
 - entrar na pasta do projeto 
 Instalar pacotes com : npm install 
 
--executar o projeto:
+- executar o projeto:
 Utilizar comando: npm start 
 
 
