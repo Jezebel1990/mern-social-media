@@ -1,6 +1,6 @@
 # Mern-social-media
 
-##Sobre o projeto
+## Sobre o projeto
 
 Seja bem vindo(a), Mern Social Midia  é uma aplicação Full Stack web. 
 
