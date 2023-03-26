@@ -27,6 +27,11 @@ Instalar pacotes com : npm install
 - executar o projeto:
 Utilizar comando: npm start 
 
+<h1>License</h1>
+<p>This project is under the MIT license. See the LICENSE for more information.</p>
+
+Made with ♥ by [Jezebel Guedes](https://www.linkedin.com/in/jezebel-guedes/) 👋 Get in touch!
+
 
 
 
