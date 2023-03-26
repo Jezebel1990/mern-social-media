@@ -10,3 +10,24 @@ Seja bem vindo(a), Mern Social Midia  é uma aplicação MERN Stack web. O softw
 ## Live demo
 - Para testar o projeto final [clique aqui](https://mern-social-media-omega.vercel.app/)
 
+## Tecnologias utilizadas
+- MongoDB;
+- ExpressJs;
+- React;
+- Node.js;
+
+
+## Como executar o projeto
+- clonar repositório:
+git clone https://github.com/Jezebel1990/mern-social-media.git
+
+- entrar na pasta do projeto 
+Instalar pacotes com : npm install 
+
+-executar o projeto:
+Utilizar comando: npm start 
+
+
+
+
+
